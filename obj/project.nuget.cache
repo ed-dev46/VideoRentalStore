@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8vKt/v6cP3w=",
+  "success": true,
+  "projectFilePath": "/home/ed/Workspace/VideoRentalStore/VideoRentalStore.csproj",
+  "expectedPackageFiles": [
+    "/home/ed/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
