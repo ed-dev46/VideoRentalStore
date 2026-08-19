@@ -1,6 +1,6 @@
-﻿namespace VideoRentalStore;
+﻿namespace VideoRentalStore.Models;
 
-public class MusicAlbum
+public class MusicAlbum : Product
 {
     /*
     banda

@@ -1,6 +1,6 @@
-﻿namespace VideoRentalStore;
+﻿namespace VideoRentalStore.Models;
 
-public class Movie
+public class Movie : Product
 {
     /*
     diretor

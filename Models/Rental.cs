@@ -1,4 +1,4 @@
-﻿namespace VideoRentalStore;
+﻿namespace VideoRentalStore.Models;
 
 public class Rental
 {

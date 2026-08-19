@@ -1,6 +1,6 @@
-﻿namespace VideoRentalStore;
+﻿namespace VideoRentalStore.Models;
 
-public class Game
+public class Game : Product
 {
     /*
     plataforma
